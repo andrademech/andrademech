@@ -16,5 +16,5 @@ Repositório dedicado a minha apresentação pessoal.
 </div>
 
 <div align: "center"><br>
-<a href="https://www.linkedin.com/in/maycondouglasss/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/herberth-andrade-759b10127/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
