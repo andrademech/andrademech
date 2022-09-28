@@ -18,6 +18,6 @@ Repositório dedicado a minha apresentação pessoal.
 <!-- <img align="right" alt="MD-pic" height="150" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/86381282?v=4?width=676&height=676"> -->
 </div>
 
-<div align: "center"><br>
+<--!<div align: "center"><br>
 <a href="https://www.linkedin.com/in/herberth-andrade-759b10127/" target="_blank" ><img src="https://media-exp1.licdn.com/dms/image/D4D03AQH5LQPHvD9Hug/profile-displayphoto-shrink_200_200/0/1663606389579?e=1669852800&v=beta&t=i9650SiRBVv_Nra-gLhQpkQfepI3hgFFrvZf3rIiLCs"></a>
-</div>
+</div> -->
