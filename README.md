@@ -2,7 +2,7 @@
 Repositório dedicado a minha apresentação pessoal.
 
 - 🔭 Buscando emprego
-- 🌱 Estudando ReactJS
+- 🌱 Estudando ReactJS, React Native
 
 <div align="center">
 <a href="https://github.com/andrademech">
