@@ -1,8 +1,8 @@
 # Herberth-Andrade
 Repositório dedicado a minha apresentação pessoal.
 
-- 🔭 Buscando emprego
-- 🌱 Estudando ReactJS, React Native
+- :rocket: Em constante evolução
+- :technologist: Estudando JavaScript, ReactJS, React Native
 
 <div align="left">
 <a href="https://github.com/andrademech">
