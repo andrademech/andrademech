@@ -2,7 +2,7 @@
 Repositório dedicado a minha apresentação pessoal.
 
 - :rocket: Em constante evolução
-- :technologist: Estudando JavaScript, ReactJS, React Native
+- :technologist: Estudando JavaScript, TypeScript, ReactJS, React Native, Node
 
 <div align="left">
 <a href="https://github.com/andrademech">
