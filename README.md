@@ -15,5 +15,5 @@ Repositório dedicado a minha apresentação pessoal.
 <img align="center" alt="MD-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="MD-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="MD-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="right" alt="MD-pic" height="150" src="https://avatars.githubusercontent.com/u/98242371?v=4">
+
 </div>
