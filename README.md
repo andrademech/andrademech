@@ -1,4 +1,5 @@
 # Herberth-Andrade
+
 Olá, sejam muito bem-vindos ao meu GitHub!
 
 Meu nome é **Herberth Andrade**, e sou um desenvolvedor React Front End que está buscando se tornar um Full Stack (Node). Sou Cristão, casado, pai de dois filhos, engenheiro mecânico e de segurança do trabalho de formação, e estou em busca de novas oportunidades para desenvolvimento para migrar de área completamente.
@@ -7,45 +8,88 @@ Mantenho uma rotina constante e completa de estudos, construindo projetos novos 
 
 ## Resumo do Portfolio:
 
-Aqui você encontra um resumo dos meus projetos: **[Portfolio.md](https://github.com/andrademech)**<br />
+Aqui você encontra um resumo dos meus projetos: **[Portfolio.md](https://github.com/andrademech)**
+<br />
 
 Trabalho com as linguagens:
 
-> - JavaScript
-  <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-> - TypeScript
-  <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
+<div>
+  <ul>
+    <li>
+      JavaScript
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </li>
+    <li>
+      TypeScript
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    </li>
+  </ul>
+</div>
 
 Trabalho com os frameworks/tecnologias:
 
-
-> - React
-  <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-> - React Native
-  <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-> - Node
-  <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-> - Nest.Js
-  <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-
+<div>
+  <ul>
+    <li>
+      React
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    </li>
+    <li>
+      React Native
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    </li>
+    <li>
+      Node
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    </li>
+    <li>
+      Nest.Js
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+    </li>
+  </ul>
+</div>
 
 Trabalho com as libs/ferramentas:
 
-> - Vite
-> - Zod
-> - Phosphor-react
-> - Styled-components
-> - Prisma
-> - React-hook-form
-> - Git
-  <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />         
-> - Github
-  <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-> - Fastify
-> - ESLint
-> - Radix
-
+<div>
+  <ul>
+    <li>
+      Vite
+    </li>
+    <li>
+      Zod
+    </li>
+    <li>
+      Phosphor-react
+    </li>
+    <li>
+      Styled-components
+    </li>
+    <li>
+      Prisma
+    </li>
+    <li>
+      React-hook-form
+    </li>
+    <li>
+      Git
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    </li>
+    <li>
+      Github
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    </li>
+    <li>
+      Fastify
+    </li>
+    <li>
+      ESLint
+    </li>
+    <li>
+      Radix
+    </li>
+  </ul>
+</div>
 
 Além da paixão por desenvolvimento, tenho grande interesse em música (guitarra, violão e contrabaixo), idiomas (Inglês e Francês), leitura (tecnologia, negócios, desenvolvimento pessoal) e passar tempo de qualidade com minha família viajando.
 
