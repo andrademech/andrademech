@@ -1,17 +1,17 @@
-# Herberth-Andrade
+# Herberth Andrade
 
-Olá, sejam muito bem-vindos ao meu GitHub!
+Hello, welcome to my GitHub!
 
-Meu nome é **Herberth Andrade**, e sou um desenvolvedor React Front End que está buscando se tornar um Full Stack (Node). Sou Cristão, casado, pai de dois filhos, engenheiro mecânico e de segurança do trabalho de formação, e estou em busca de novas oportunidades para desenvolvimento para migrar de área completamente.
+My name is Herberth Andrade, and I am a React Front-End developer who is looking to become a Full Stack (Node). I am a Christian, married, father of two, with a background in mechanical and occupational safety engineering, and I am looking for new development opportunities to completely transition my career.
 
-Mantenho uma rotina constante e completa de estudos, construindo projetos novos e seguindo as trilhas de React, React Native e Node do Ignite, **[Rocketseat](https://www.rocketseat.com.br/)**. Além disso, estou sempre buscando novos desafios e oportunidades de aprendizado.
+I maintain a constant and complete study routine, building new projects and following the React, React Native, and Node tracks from Ignite, Rocketseat. Additionally, I am always looking for new challenges and learning opportunities.
 
-## Resumo do Portfolio
+## Portfolio Summary
 
-Aqui você encontra um resumo dos meus principais projetos: **[Portfolio-resume.md](https://github.com/andrademech/Portfolio-resume)**
+Here you will find a summary of my main projects:: **[Portfolio-resume.md](https://github.com/andrademech/Portfolio-resume)**
 <br />
 
-Trabalho com as linguagens:
+I work with the following languages:
 
 <div>
   <ul>
@@ -26,7 +26,7 @@ Trabalho com as linguagens:
   </ul>
 </div>
 
-Trabalho com os frameworks/tecnologias:
+I work with the following frameworks/technologies:
 
 <div>
   <ul>
@@ -49,7 +49,7 @@ Trabalho com os frameworks/tecnologias:
   </ul>
 </div>
 
-Trabalho com as libs/ferramentas:
+I work with the following libraries/tools:
 
 <div>
   <ul>
@@ -91,11 +91,11 @@ Trabalho com as libs/ferramentas:
   </ul>
 </div>
 
-Além da paixão por desenvolvimento, tenho grande interesse em música (guitarra, violão e contrabaixo), idiomas (Inglês e Francês), leitura (tecnologia, negócios, desenvolvimento pessoal) e passar tempo de qualidade com minha família viajando.
+In addition to a passion for development, I have a great interest in music (guitar, acoustic guitar, and bass), languages (English and French), reading (technology, business, personal development), and spending quality time with my family while traveling.
 
-Estou ansioso para colaborar em projetos e aprender com a comunidade aqui no GitHub. Sinta-se à vontade para entrar em contato comigo para conversar sobre projetos ou apenas para trocar ideias!
+I am excited to collaborate on projects and learn from the community here on GitHub. Feel free to reach out to me to discuss projects or just exchange ideas!
 
-Aqui em baixo você encontra um resumo do meu GitHub:
+Below, you'll find a summary of my GitHub.
 
 <div align="left">
   <a href="https://github.com/andrademech">
@@ -103,7 +103,7 @@ Aqui em baixo você encontra um resumo do meu GitHub:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrademech&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Contatos:
+## Contacts:
 
 <div>
   <a href="https://instagram.com/herberth.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
