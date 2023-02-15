@@ -10,15 +10,39 @@ Me encontre no LinkedIn: [LinkedIn](https://www.linkedin.com/in/herberth-andrade
 
 Trabalho com as linguagens:
 
-> - JavaScript
-> - TypeScript
+<div>
+  <ul>
+    <li>
+      JavaScript
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </li>
+    <li>
+      TypeScript
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    </li>
+  <ul/>
+</div>
 
 Trabalho com os frameworks/tecnologias:
 
-> - React.Js
-> - React Native
-> - Node.Js
-> - Nest.Js
+<div>
+  <ul>
+    <li>
+      React
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    </li>
+    <li>
+      React Native
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    </li>
+    <li>
+      Node
+    </li>
+    <li>
+      Nest.Js
+    </li>
+  <ul/>
+</div>
 
 Trabalho com as libs/ferramentas:
 
@@ -44,11 +68,4 @@ Aqui em baixo está um resumo do meu GitHub:
   <a href="https://github.com/andrademech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrademech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrademech&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="MD-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MD-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="MD-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="MD-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
