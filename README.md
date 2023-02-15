@@ -6,9 +6,9 @@ Meu nome é **Herberth Andrade**, e sou um desenvolvedor React Front End que est
 
 Mantenho uma rotina constante e completa de estudos, construindo projetos novos e seguindo as trilhas de React, React Native e Node do Ignite, **[Rocketseat](https://www.rocketseat.com.br/)**. Além disso, estou sempre buscando novos desafios e oportunidades de aprendizado.
 
-## Resumo do Portfolio:
+## Resumo do Portfolio
 
-Aqui você encontra um resumo dos meus projetos: **[Portfolio.md](https://github.com/andrademech)**
+Aqui você encontra um resumo dos meus principais projetos: **[Portfolio-resume.md](https://github.com/andrademech/Portfolio-resume)**
 <br />
 
 Trabalho com as linguagens:
