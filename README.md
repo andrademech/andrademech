@@ -72,12 +72,16 @@ I work with the following libraries/tools:
 <div>
   <ul>
     <li>
-      Vite
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://vitejs.dev/logo.svg" />
+      <a href="https://vitejs.dev/" target="_blank">
+        Vite
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://vitejs.dev/logo.svg" />
+      </a>
     </li>
     <li>
-      Zod
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://zod.dev/logo.svg" />
+      <a href="https://zod.dev/" target="_blank">
+        Zod
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://zod.dev/logo.svg" />
+      </a>
     </li>
     <li>
       Phosphor-react
