@@ -47,16 +47,22 @@ I work with the following frameworks/technologies:
       </a>
     </li>
     <li>
-      Node
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <a href="https://nodejs.org/en/" target="_blank">
+        Node
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      </a>
     </li>
     <li>
-      Next.Js
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <a href="https://nextjs.org/" target="_blank">
+        Next.Js
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://nextjs.org/static/favicon/favicon-32x32.png" />
+      </a>
     </li>
     <li>
-      Nest.Js
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+      <a href="https://nestjs.com/" target="_blank">
+        Nest.Js
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+      </a>
     </li>
   </ul>
 </div>
