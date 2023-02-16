@@ -16,12 +16,16 @@ I work with the following languages:
 <div>
   <ul>
     <li>
-      JavaScript
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+        JavaScript
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+      </a>
     </li>
     <li>
-      TypeScript
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        TypeScript
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+      </a>
     </li>
   </ul>
 </div>
@@ -31,12 +35,16 @@ I work with the following frameworks/technologies:
 <div>
   <ul>
     <li>
-      React
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+      <a href="https://reactjs.org/" target="_blank">
+        React
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+      </a>
     </li>
     <li>
-      React Native
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+      <a href="https://reactnative.dev/" target="_blank">
+        React Native
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+      </a>
     </li>
     <li>
       Node
