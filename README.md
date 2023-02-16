@@ -43,6 +43,10 @@ I work with the following frameworks/technologies:
       <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     </li>
     <li>
+      Next.Js
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    </li>
+    <li>
       Nest.Js
       <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
     </li>
@@ -55,18 +59,23 @@ I work with the following libraries/tools:
   <ul>
     <li>
       Vite
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://vitejs.dev/logo.svg" />
     </li>
     <li>
       Zod
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://zod.dev/logo.svg" />
     </li>
     <li>
       Phosphor-react
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/phosphor-icons/homepage/master/meta/phosphor-mark-tight-yellow.png" />
     </li>
     <li>
       Styled-components
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://styled-components.com/logo.png" />
     </li>
     <li>
       Prisma
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://prismalens.vercel.app/header/logo-dark.svg" />
     </li>
     <li>
       React-hook-form
