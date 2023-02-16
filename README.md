@@ -8,7 +8,7 @@ I maintain a constant and complete study routine, building new projects and foll
 
 ## Portfolio Summary
 
-Here you will find a summary of my main projects:: **[Portfolio-resume.md](https://github.com/andrademech/Portfolio-resume)**
+Here you will find a summary of my main projects: **[Portfolio-resume.md](https://github.com/andrademech/Portfolio-resume)**
 <br />
 
 I work with the following languages:
@@ -17,11 +17,11 @@ I work with the following languages:
   <ul>
     <li>
       JavaScript
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     </li>
     <li>
       TypeScript
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
     </li>
   </ul>
 </div>
@@ -32,11 +32,11 @@ I work with the following frameworks/technologies:
   <ul>
     <li>
       React
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
     </li>
     <li>
       React Native
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
     </li>
     <li>
       Node
@@ -70,8 +70,10 @@ I work with the following libraries/tools:
       <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/phosphor-icons/homepage/master/meta/phosphor-mark-tight-yellow.png" />
     </li>
     <li>
-      Styled-components
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://styled-components.com/logo.png" />
+      <a href="https://www.styled-components.com/" target="_blank">
+        Styled-components
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://styled-components.com/logo.png" />
+       </a>
     </li>
     <li>
       Prisma
@@ -79,6 +81,7 @@ I work with the following libraries/tools:
     </li>
     <li>
       React-hook-form
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://react-hook-form.com/favicon-32x32.png?v=33dbda822526f0cf9f02a335ee65d925" />
     </li>
     <li>
       Git
@@ -90,12 +93,15 @@ I work with the following libraries/tools:
     </li>
     <li>
       Fastify
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://www.fastify.io/images/android-icon-192x192.37eb7f1ae3853740.png" />
     </li>
     <li>
       ESLint
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://eslint.org/favicon.ico" />
     </li>
     <li>
       Radix
+      <img align="center" alt="MD-Js" height="20" width="20" src="https://www.radix-ui.com/favicon.png" />
     </li>
   </ul>
 </div>
