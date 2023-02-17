@@ -84,8 +84,10 @@ I work with the following libraries/tools:
       </a>
     </li>
     <li>
-      Phosphor-react
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/phosphor-icons/homepage/master/meta/phosphor-mark-tight-yellow.png" />
+      <a href="https://phosphoricons.com/" target="_blank">
+        Phosphor-react
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/phosphor-icons/homepage/master/meta/phosphor-mark-tight-yellow.png" />
+      </a>
     </li>
     <li>
       <a href="https://www.styled-components.com/" target="_blank">
@@ -94,32 +96,46 @@ I work with the following libraries/tools:
        </a>
     </li>
     <li>
-      Prisma
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://prismalens.vercel.app/header/logo-dark.svg" />
+      <a href="https://www.prisma.io/" target="_blank">
+        Prisma
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://prismalens.vercel.app/header/logo-dark.svg" />
+      </a>
     </li>
     <li>
-      React-hook-form
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://react-hook-form.com/favicon-32x32.png?v=33dbda822526f0cf9f02a335ee65d925" />
+      <a href="https://react-hook-form.com/" target="_blank">
+        React-hook-form
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://react-hook-form.com/favicon-32x32.png?v=33dbda822526f0cf9f02a335ee65d925" />
+      </a>
     </li>
     <li>
-      Git
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <a href="https://git-scm.com/" target="_blank">
+        Git
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      </a>
     </li>
     <li>
-      Github
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+      <a href="https://github.com/" target="_blank">
+        Github
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+      </a>
     </li>
     <li>
-      Fastify
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://www.fastify.io/images/android-icon-192x192.37eb7f1ae3853740.png" />
+      <a href="https://www.fastify.io/" target="_blank">
+        Fastify
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://www.fastify.io/images/android-icon-192x192.37eb7f1ae3853740.png" />
+      </a>
     </li>
     <li>
-      ESLint
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://eslint.org/favicon.ico" />
+      <a href="https://eslint.org/" target="_blank">
+        ESLint
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://eslint.org/favicon.ico" />
+      </a>
     </li>
     <li>
-      Radix
-      <img align="center" alt="MD-Js" height="20" width="20" src="https://www.radix-ui.com/favicon.png" />
+      <a href="https://www.radix-ui.com/" target="_blank">
+        Radix
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://www.radix-ui.com/favicon.png" />
+      </a>
     </li>
   </ul>
 </div>
