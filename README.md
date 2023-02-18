@@ -143,6 +143,18 @@ I work with the following libraries/tools:
         <img align="center" alt="MD-Js" height="20" width="20" src="https://www.radix-ui.com/favicon.png" />
       </a>
     </li>
+    <li>
+      <a href="https://vitest.dev/" target="_blank">
+        Vitest
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://vitest.dev/favicon.ico" />
+      </a>
+    </li>
+    <li>
+      <a href="https://knexjs.org/" target="_blank">
+        Knex
+        <img align="center" alt="MD-Js" height="20" width="20" src="/https://knexjs.org/knex-logo.png" />
+      </a>
+    </li>
   </ul>
 </div>
 
