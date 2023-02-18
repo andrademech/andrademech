@@ -126,6 +126,12 @@ I work with the following libraries/tools:
       </a>
     </li>
     <li>
+      <a href="https://expressjs.com/" target="_blank">
+        Express
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://expressjs.com/images/favicon.png" />
+      </a>
+    </li>
+    <li>
       <a href="https://eslint.org/" target="_blank">
         ESLint
         <img align="center" alt="MD-Js" height="20" width="20" src="https://eslint.org/favicon.ico" />
