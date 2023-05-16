@@ -2,7 +2,7 @@
 
 Hello, welcome to my GitHub!
 
-My name is Herberth Andrade, and I am a React Front-End developer who is looking to become a Full Stack (Node). I am a Christian, married, father of two, with a background in mechanical and occupational safety engineering, and I am looking for new development opportunities to completely transition my career.
+I am a React Front-End developer who is looking to become a Full Stack (Node). I am a Christian, married, father of two, with a background in mechanical and occupational safety engineering, and I am looking for new development opportunities to completely transition my career.
 
 I maintain a constant and complete study routine, building new projects and following the React, React Native, and Node tracks from Ignite, Rocketseat. Additionally, I am always looking for new challenges and learning opportunities.
 
