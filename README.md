@@ -174,11 +174,11 @@ Below, you'll find a summary of my GitHub.
 
 <div>
   <a href="https://instagram.com/herberth.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<!--   <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:dev.herberth@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/herberth-andrade-759b10127/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
+<br />
 <div>
 
   <img src="https://media.licdn.com/dms/image/D4D16AQHyNJh0AfOBKA/profile-displaybackgroundimage-shrink_350_1400/0/1687180765516?e=1692835200&v=beta&t=-4nQZzWCpodFx3MiAkXJxY8Tbb5397AymL47L6Gqb_o" />
