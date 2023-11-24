@@ -17,14 +17,14 @@ I work with the following languages:
   <ul>
     <li>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-        JavaScript
         <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+        JavaScript
       </a>
     </li>
     <li>
       <a href="https://www.typescriptlang.org/" target="_blank">
-        TypeScript
         <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+        TypeScript
       </a>
     </li>
   </ul>
@@ -36,32 +36,32 @@ I work with the following frameworks/technologies:
   <ul>
     <li>
       <a href="https://reactjs.org/" target="_blank">
-        React
         <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+        React
       </a>
     </li>
     <li>
       <a href="https://reactnative.dev/" target="_blank">
-        React Native
         <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+        React Native
       </a>
     </li>
     <li>
       <a href="https://nodejs.org/en/" target="_blank">
-        Node
         <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+        Node
       </a>
     </li>
     <li>
       <a href="https://nextjs.org/" target="_blank">
-        Next.Js
         <img align="center" alt="MD-Js" height="20" width="20" src="https://nextjs.org/static/favicon/favicon-32x32.png" />
+        Next.Js
       </a>
     </li>
     <li>
       <a href="https://nestjs.com/" target="_blank">
-        Nest.Js
         <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+        Nest.Js
       </a>
     </li>
   </ul>
@@ -73,86 +73,92 @@ I work with the following libraries/tools:
   <ul>
     <li>
       <a href="https://vitejs.dev/" target="_blank">
-        Vite
         <img align="center" alt="MD-Js" height="20" width="20" src="https://vitejs.dev/logo.svg" />
+        Vite
       </a>
     </li>
     <li>
       <a href="https://zod.dev/" target="_blank">
-        Zod
         <img align="center" alt="MD-Js" height="20" width="20" src="https://zod.dev/logo.svg" />
+        Zod
       </a>
     </li>
     <li>
       <a href="https://phosphoricons.com/" target="_blank">
-        Phosphor-react
         <img align="center" alt="MD-Js" height="20" width="20" src="https://raw.githubusercontent.com/phosphor-icons/homepage/master/meta/phosphor-mark-tight-yellow.png" />
+        Phosphor-react
       </a>
     </li>
     <li>
       <a href="https://www.styled-components.com/" target="_blank">
-        Styled-components
         <img align="center" alt="MD-Js" height="20" width="20" src="https://styled-components.com/logo.png" />
-       </a>
+        Styled-components
+      </a>
+    </li>
+     <li>
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://tailwindcss.com/favicons/apple-touch-icon.png?v=3" />
+        Tailwind
+      </a>
     </li>
     <li>
       <a href="https://www.prisma.io/" target="_blank">
-        Prisma
         <img align="center" alt="MD-Js" height="20" width="20" src="https://prismalens.vercel.app/header/logo-dark.svg" />
+        Prisma
       </a>
     </li>
     <li>
       <a href="https://react-hook-form.com/" target="_blank">
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://avatars.githubusercontent.com/u/53986236?s=48&v=4" />
         React-hook-form
-        <img align="center" alt="MD-Js" height="20" width="20" src="https://react-hook-form.com/favicon-32x32.png?v=33dbda822526f0cf9f02a335ee65d925" />
       </a>
     </li>
     <li>
       <a href="https://git-scm.com/" target="_blank">
-        Git
         <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        Git
       </a>
     </li>
     <li>
       <a href="https://github.com/" target="_blank">
-        Github
         <img align="center" alt="MD-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+        Github
       </a>
     </li>
     <li>
       <a href="https://www.fastify.io/" target="_blank">
+        <img align="center" alt="MD-Js" height="20" width="20" src="https://fastify.io/img/logos/fastify-black.svg" />
         Fastify
-        <img align="center" alt="MD-Js" height="20" width="20" src="https://www.fastify.io/images/android-icon-192x192.37eb7f1ae3853740.png" />
       </a>
     </li>
     <li>
       <a href="https://expressjs.com/" target="_blank">
-        Express
         <img align="center" alt="MD-Js" height="20" width="20" src="https://expressjs.com/images/favicon.png" />
+        Express
       </a>
     </li>
     <li>
       <a href="https://eslint.org/" target="_blank">
-        ESLint
         <img align="center" alt="MD-Js" height="20" width="20" src="https://eslint.org/favicon.ico" />
+        ESLint
       </a>
     </li>
     <li>
       <a href="https://www.radix-ui.com/" target="_blank">
-        Radix
         <img align="center" alt="MD-Js" height="20" width="20" src="https://www.radix-ui.com/favicon.png" />
+        Radix
       </a>
     </li>
     <li>
       <a href="https://vitest.dev/" target="_blank">
-        Vitest
         <img align="center" alt="MD-Js" height="20" width="20" src="https://vitest.dev/favicon.ico" />
+        Vitest
       </a>
     </li>
     <li>
       <a href="https://knexjs.org/" target="_blank">
-        Knex
         <img align="center" alt="MD-Js" height="20" width="20" src="https://knexjs.org/knex-logo.png" />
+        Knex
       </a>
     </li>
   </ul>
